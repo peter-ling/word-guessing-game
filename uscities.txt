@@ -1,0 +1,86 @@
+albuquerque
+anaheim
+anchorage
+arlington
+atlanta
+austin
+bakersfield
+baltimore
+baton rouge
+boise
+boston
+buffalo
+charlotte
+chicago
+cincinnati
+cleveland
+colorado springs
+columbus
+corpus christi
+dallas
+denver
+detroit
+durham
+el paso
+fort wayne
+fort worth
+fresno
+glendale
+greensboro
+honolulu
+houston
+indianapolis
+irvine
+irving
+jacksonville
+jersey city
+kansas city
+las vegas
+lexington
+lincoln
+long beach
+los angeles
+lousville
+madison
+memphis
+miami
+milwaukee
+minneapolis
+nashville
+new orleans
+new york
+newark
+norfolk
+oakland
+oklahoma city
+omaha
+orlando
+philadelphia
+phoenix
+pittsburgh
+plano
+portland
+raleigh
+reno
+richmond
+riverside
+sacramento
+saint paul
+san antonio
+san diego
+san francisco
+san jose
+santa ana
+scottsdale
+seattle
+st. louis
+st. petersburg
+stockton
+tampa
+toledo
+tulsa
+tuscon
+virginia beach
+washington
+wichita
+winston-salem
